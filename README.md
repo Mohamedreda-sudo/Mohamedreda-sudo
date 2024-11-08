@@ -30,7 +30,7 @@
 
 [![Travis CI](https://travis-ci.org/pantheon-systems/wp-redis.svg?branch=master)](https://travis-ci.org/pantheon-systems/wp-redis) [![CircleCI](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master.svg?style=svg)](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master)
 
-### Talk with Jubayer Riyad, I am kinda awesome:
+### Talk with Loughmari Mohammed, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="holisitc_developer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -254,7 +254,7 @@
 <br/>
 
 
-[![Mohamedreda-sudo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JubayerRiyad&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/JubayerRiyad/github-readme-activity-graph)
+[![Mohamedreda-sudo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mohammedreda-sudo&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/Mohamedreda-sudo/github-readme-activity-graph)
 
 <br/>
 <br/>
@@ -265,7 +265,7 @@
 
 ## :trophy: Loughmari Mohammed Github Stats:
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubayerRiyad&theme=github_dark) 
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamedreda-sudo&theme=github_dark) 
 
 
 
